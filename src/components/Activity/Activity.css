@@ -1,0 +1,11 @@
+.activity{
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 300px;
+    height: auto;
+    padding-top: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19)
+}
+.activity img{
+   width: 80%;
+}
